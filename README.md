@@ -1,5 +1,12 @@
 go modbus [![Build Status](https://travis-ci.org/goburrow/modbus.svg?branch=master)](https://travis-ci.org/goburrow/modbus) [![GoDoc](https://godoc.org/github.com/goburrow/modbus?status.svg)](https://godoc.org/github.com/goburrow/modbus)
 =========
+
+Fork from goburrow/modbus
+
+(POTENTIALLY) HIGHLY MODIFIED FORK, NOT TESTED - DO NOT USE!!! WORK-IN-PROGRESS
+-------------------------------------------------------------------------------
+
+
 Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
 
 Supported functions
